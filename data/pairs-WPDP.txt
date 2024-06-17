@@ -1,0 +1,10 @@
+ant-1.5,ant-1.6
+camel-1.4,camel-1.6
+ivy-1.4,ivy-2.0
+jedit-4.0,jedit-4.1
+lucene-2.0,lucene-2.2
+log4j-1.0,log4j-1.1
+poi-2.5,poi-3.0
+synapse-1.1,synapse-1.2
+xalan-2.5,xalan-2.6
+xerces-1.2,xerces-1.3
